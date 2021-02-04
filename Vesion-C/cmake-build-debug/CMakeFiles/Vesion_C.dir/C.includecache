@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Clion/DataStruct/Vesion-C/SqlList/SqlList.c
+SqlList.h
+/cygdrive/d/Clion/DataStruct/Vesion-C/SqlList/SqlList.h
+
+/cygdrive/d/Clion/DataStruct/Vesion-C/SqlList/SqlList.h
+
+/cygdrive/d/Clion/DataStruct/Vesion-C/SqlList/TestSqlList.c
+SqlList.h
+/cygdrive/d/Clion/DataStruct/Vesion-C/SqlList/SqlList.h
+
+/cygdrive/d/Clion/DataStruct/Vesion-C/main.c
+stdio.h
+-
+SqlList/SqlList.h
+/cygdrive/d/Clion/DataStruct/Vesion-C/SqlList/SqlList.h
+
