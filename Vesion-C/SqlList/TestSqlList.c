@@ -24,9 +24,9 @@ void TestSqlList()
     show_list(&list);
 }
 
-/*
 
-void main()
+
+int SqlListAPI()
 {
 	SeqList mylist;
 	InitSeqList(&mylist);
@@ -124,4 +124,3 @@ void main()
 	}
 	destroy(&mylist);
 }
-*/
