@@ -1,1 +1,0 @@
-/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/Vesion_C.dir/main.c.o CMakeFiles/Vesion_C.dir/SqlList/SqlList.c.o CMakeFiles/Vesion_C.dir/SqlList/TestSqlList.c.o  -o Vesion_C.exe -Wl,--out-implib,libVesion_C.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
