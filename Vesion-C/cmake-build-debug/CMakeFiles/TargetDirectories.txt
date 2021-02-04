@@ -1,0 +1,3 @@
+/cygdrive/d/Clion/DataStruct/Vesion-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Clion/DataStruct/Vesion-C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Clion/DataStruct/Vesion-C/cmake-build-debug/CMakeFiles/Vesion_C.dir
