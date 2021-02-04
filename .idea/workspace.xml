@@ -11,18 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9cda21-04fe-4cd6-972b-0ccf62bf1bd8" name="默认的" comment="add all">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/SqlList/SqlList.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/SqlList/SqlList.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/SqlList/TestSqlList.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vesion-C/main.c" afterDir="false" />
-    </list>
+    <list default="true" id="1b9cda21-04fe-4cd6-972b-0ccf62bf1bd8" name="默认的" comment="add all" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612443806809</updated>
       <workItem from="1612443813441" duration="69000" />
-      <workItem from="1612443922972" duration="2481000" />
+      <workItem from="1612443922972" duration="3619000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1612444576519</created>
@@ -82,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612444576519</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add all">
+      <created>1612449868130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612449868130</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add all">
+      <created>1612450135648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612450135648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
